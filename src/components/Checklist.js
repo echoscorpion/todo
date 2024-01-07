@@ -15,6 +15,7 @@ export default function Checklist() {
             settaskList(oldArray => [...oldArray,tasks] );
         }
         else{
+            
             alert("add Task")
 
         }
